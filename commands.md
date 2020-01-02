@@ -118,17 +118,29 @@ erase startup-config
 ```
 ### Opções do comando show
 #### Mostrando um resumo de TODAS as portas
+```
 show interface brief
+```
 #### Mostrando quais portas do Switch utilizam link-aggregation
+```
 show trunks
+```
 #### Mostrando a configuração do Switch atual
+```
 show running-config
 show running-config structured
+```
 #### Mostrando informações do STP, quais portas estão BLOQUEADAS e FORWARDING
+```
 show spanning-tree
 show spanning-tree config
+```
 #### Mostrando a tabela MAC e tabela ARP
+```
 show mac-address
 show arp
+```
 #### Visualizando os logs no Switch
+```
 show logging
+```
