@@ -1,6 +1,7 @@
 ### Configurando o nome do Switch
 
 >Switch(config)# hostname Sw_Core
+
 >Sw_Core(config)#
 
 
