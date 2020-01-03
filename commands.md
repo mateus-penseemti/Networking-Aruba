@@ -1,4 +1,5 @@
 # Comandos Switch Aruba
+![alt text](https://www.arubanetworks.com/wp-content/uploads/2540_Switch_Family_408x320.png)
 
 ## Lista dos principais comandos:
 
